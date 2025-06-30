@@ -20,7 +20,7 @@ Customizable - Wordlist dan pola deteksi bisa dikustomisasi
 
 🚀 Instalasi
 bash
-git clone https://github.com/username/ultimate-web-scanner.git
+git clone https://github.com/bimagacorkang/-Ultimate-Leak-Base.git
 cd ultimate-web-scanner
 pip install -r requirements.txt
 🛠 Penggunaan
@@ -39,8 +39,6 @@ Parameter	Deskripsi
 -t NUM	Jumlah threads (default: 50)
 -p	Aktifkan proxy rotation
 -np	Nonaktifkan semua proxy
-📌 Contoh Output
-https://i.imgur.com/fake_output.png
 
 ⚠️ Disclaimer
 Hanya untuk tujuan pentest legal!
